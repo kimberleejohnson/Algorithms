@@ -1,5 +1,8 @@
 #!/usr/bin/python
 
+# Pseudocode
+# Consider your bounds: What _can't_ this function output/accept? 
+
 import math
 
 def recipe_batches(recipe, ingredients):
